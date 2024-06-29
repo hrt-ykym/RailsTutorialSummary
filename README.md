@@ -1,2 +1,2 @@
-# RailsTutorialSummary
+# これなに
 RailsTutorialを雑にまとめます
